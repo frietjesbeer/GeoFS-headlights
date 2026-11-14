@@ -20,6 +20,12 @@ This script adds proper landing / taxi / turnoff lights to these aircraft:
 - Concorde
 - Beechcraft B55
 
+You can add your own headlights to aircraft you want, and position them exactly like the real thing, just don't forget to save them, otherwise they will be reset when you reload GeoFS.
+You can also bind specific lights to your own buttons/keyboard keys.
+
+I hope there's people who enjoy this!
+
+
 Toggle the UI with: ALT+H
 
 See these images for examples:
@@ -35,7 +41,3 @@ See these images for examples:
 <img width="2728" height="2046" alt="Image 14-11-2026 at 00 05" src="https://github.com/user-attachments/assets/82e19af2-03f7-42a1-8f23-ee71eea77d1f" />
 
 
-You can add your own headlights to aircraft you want, and position them exactly like the real thing, just don't forget to save them, otherwise they will be reset when you reload GeoFS.
-You can also bind specific lights to your own buttons/keyboard keys.
-
-I hope there's people who enjoy this!
